@@ -1,0 +1,1 @@
+Program penjumlahan matriks berfungsi untuk menjumlahkan dua buah matriks berukuran sama yang dimasukkan oleh pengguna. Cara kerjanya dengan meminta ukuran matriks, kemudian pengguna mengisi elemen-elemen untuk matriks A dan B, setelah itu program menjumlahkan setiap elemen yang memiliki posisi sama dan menampilkan hasilnya dalam bentuk matriks baru
